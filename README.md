@@ -3,18 +3,18 @@
 ### Different Annotation used in User Management Service
 For further reference, please consider the following sections:
 
-* [@RestController](This annotation is used to start entry point class for spring boot application)
-* [@RequestMapping("/api/users")](https://docs.spring.io/spring-boot/docs/2.4.4/maven-plugin/reference/html/)
-* [@Autowired](https://docs.spring.io/spring-boot/docs/2.4.4/maven-plugin/reference/html/#build-image)
-* [@GetMapping](https://docs.spring.io/spring-boot/docs/2.4.4/reference/htmlsingle/#boot-features-jpa-and-spring-data)
-* [@GetMapping("/{id}")](https://docs.spring.io/spring-boot/docs/2.4.4/reference/htmlsingle/#boot-features-developing-web-applications)
+* [@RestController](@RestController is a specialized version of the controller. It includes the @Controller and @ResponseBody annotations, and as a result, simplifies the controller implementation.)
+* [@RequestMapping("https://www.baeldung.com/spring-requestmapping)
+* [@Autowired](https://www.baeldung.com/spring-autowire)
+* [@GetMapping](https://zetcode.com/spring/getmapping/)
+* [@GetMapping("/{id}")](https://zetcode.com/spring/getmapping/)
 
-* [@PostMapping](This annotation is used to start entry point class for spring boot application)
-* [@PathVariable](https://docs.spring.io/spring-boot/docs/2.4.4/maven-plugin/reference/html/)
-* [@RequestBody User user](https://docs.spring.io/spring-boot/docs/2.4.4/maven-plugin/reference/html/#build-image)
-* [@GetMapping](https://docs.spring.io/spring-boot/docs/2.4.4/reference/htmlsingle/#boot-features-jpa-and-spring-data)
-* [@DeleteMapping("/{id}")](https://docs.spring.io/spring-boot/docs/2.4.4/reference/htmlsingle/#boot-features-developing-web-applications)
-* [@PathVariable ("id") long userId](https://docs.spring.io/spring-boot/docs/2.4.4/reference/htmlsingle/#boot-features-developing-web-applications)
-* [@Repository](https://docs.spring.io/spring-boot/docs/2.4.4/reference/htmlsingle/#boot-features-developing-web-applications)
-* [@PathVariable ("id") long userId](https://docs.spring.io/spring-boot/docs/2.4.4/reference/htmlsingle/#boot-features-developing-web-applications)
+* [@PostMapping](https://howtodoinjava.com/spring5/webmvc/controller-getmapping-postmapping/)
+* [@PathVariable](https://www.baeldung.com/spring-pathvariable)
+* [@RequestBody User user](https://www.baeldung.com/spring-request-response-body)
+
+* [@DeleteMapping("/{id}")](https://zetcode.com/spring/deletemapping/)
+* [@PathVariable ("id") long userId](https://www.baeldung.com/spring-pathvariable)
+* [@Repository](https://www.journaldev.com/21460/spring-repository-annotation)
+* [@PathVariable ("id") long userId](https://www.baeldung.com/spring-pathvariable)
 
