@@ -1,6 +1,6 @@
-# User Management Service Getting Started
+# User Management Service
 
-### Different Annotation used in Spring Boot
+### Different Annotation used in User Management Service
 For further reference, please consider the following sections:
 
 * [@RestController](This annotation is used to start entry point class for spring boot application)
